@@ -1,5 +1,3 @@
-## README.md
-
 **Cursos Online**
 
 Esta aplicação web permite pesquisar por cursos online disponíveis em uma base de dados. O usuário pode inserir o nome do curso desejado no campo de pesquisa e clicar no botão "Pesquisar". Os resultados da pesquisa serão exibidos na seção abaixo.
